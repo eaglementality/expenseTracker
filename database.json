@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "date": "2024-05-15T09:15:00.000Z",
+    "description": "Taxi",
+    "amount": 15
+  },
+  {
+    "id": 3,
+    "date": "2020-01-12",
+    "description": "Dinner",
+    "amount": 20
+  },
+  {
+    "id": 4,
+    "date": "2025-12-26T10:07:02.736Z",
+    "description": "lunch",
+    "amount": 20
+  },
+  {
+    "id": 6,
+    "date": "2020-01-12",
+    "description": "Toffee",
+    "amount": 20
+  }
+]
